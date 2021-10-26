@@ -1,0 +1,6 @@
+{
+	"appId": "com.adekiswara.ionic.memories",
+	"appName": "Memories",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
